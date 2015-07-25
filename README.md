@@ -22,7 +22,7 @@ Or install it yourself as:
 
 RailsApiFilters is automatically included in ActionController::Base or ActionController::API if you're using [rails-api](https://github.com/rails-api/rails-api). 
 
-RailsApiFilter will trap common exceptions and respond with the correct status code and message.
+RailsApiFilters will trap common exceptions and respond with the correct status code and message.
 
 - ActiveRecord::RecordNotFound exceptions are returned as 404 Resource not found
 
