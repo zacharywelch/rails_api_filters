@@ -82,6 +82,6 @@ class ArtistsController < ApplicationController
     end
 
     def artist_params
-      params.permit(:name, :featured)
+      params.permit(:name)
     end
 end
