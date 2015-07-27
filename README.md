@@ -1,4 +1,4 @@
-# rails_api_filters
+# RailsApiFilters
 
 A filter chain for Rails APIs
 
